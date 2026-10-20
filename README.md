@@ -6,20 +6,11 @@
   <a href="mailto:betulaltunyuva@gmail.com"><img src="https://img.shields.io/badge/email-131c38?style=for-the-badge&logo=gmail&logoColor=a78bfa" alt="Email" /></a>
 </p>
 
-### `~/about`
+<img src="assets/sections/about.svg" width="100%" alt="About" />
 
-```python
-class Betul:
-    role     = "Software Engineering"
-    focus    = ["AI / LLM applications", "Network monitoring & security", "Cross-platform mobile"]
-    building = ["multi-agent systems", "RAG pipelines", "self-healing networks", "Flutter apps"]
-    motto    = "data → model → API → UI → deployment, end to end"
+<img src="assets/about.svg" width="100%" alt="class Betul: role = Software Engineering; focus = AI / LLM apps, Networks & Security, Mobile; building = multi-agent systems, RAG pipelines, self-healing SDN, Flutter apps" />
 
-    def say_hi(self):
-        return "Thanks for stopping by — let's build something useful! 🚀"
-```
-
-### `~/projects`
+<img src="assets/sections/projects.svg" width="100%" alt="Projects" />
 
 #### 🤖 AI & LLM Applications
 
@@ -58,7 +49,7 @@ class Betul:
   <a href="https://github.com/betulaltunyuva/collatz-random-number-generator"><img src="assets/cards/collatz-random-number-generator.svg" width="49%" alt="Collatz PRNG — pseudo-random number generator" /></a>
 </p>
 
-### `~/stack`
+<img src="assets/sections/stack.svg" width="100%" alt="Tech stack" />
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,dart,ts,flutter,react,tailwind,fastapi,flask,sklearn,opencv,supabase,firebase,sqlite,docker,git,githubactions&perline=8&theme=dark" alt="Python, Dart, TypeScript, Flutter, React, Tailwind, FastAPI, Flask, scikit-learn, OpenCV, Supabase, Firebase, SQLite, Docker, Git, GitHub Actions" />
@@ -75,7 +66,7 @@ class Betul:
   <img src="https://img.shields.io/badge/Scapy-131c38?style=flat-square" alt="Scapy" />
 </p>
 
-### `~/stats`
+<img src="assets/sections/stats.svg" width="100%" alt="GitHub stats" />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=betulaltunyuva&show_icons=true&hide_rank=false&bg_color=0b1020&title_color=818cf8&icon_color=22d3ee&text_color=cbd5e1&border_color=1e293b&border_radius=14" height="170" alt="GitHub stats" />
