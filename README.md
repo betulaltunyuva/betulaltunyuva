@@ -57,6 +57,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/LangChain-131c38?style=flat-square&logo=langchain&logoColor=22d3ee" alt="LangChain" />
   <img src="https://img.shields.io/badge/Ollama-131c38?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/Streamlit-131c38?style=flat-square&logo=streamlit&logoColor=FF4B4B" alt="Streamlit" />
   <img src="https://img.shields.io/badge/Gemini-131c38?style=flat-square&logo=googlegemini&logoColor=a78bfa" alt="Gemini" />
   <img src="https://img.shields.io/badge/FAISS-131c38?style=flat-square" alt="FAISS" />
   <img src="https://img.shields.io/badge/YOLOv8-131c38?style=flat-square" alt="YOLOv8" />
