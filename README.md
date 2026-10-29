@@ -70,6 +70,6 @@
 <img src="assets/sections/stats.svg" width="100%" alt="GitHub stats" />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=betulaltunyuva&show_icons=true&hide_rank=false&bg_color=0b1020&title_color=818cf8&icon_color=22d3ee&text_color=cbd5e1&border_color=1e293b&border_radius=14" height="170" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=betulaltunyuva&layout=compact&hide=jupyter%20notebook,html&bg_color=0b1020&title_color=818cf8&text_color=cbd5e1&border_color=1e293b&border_radius=14" height="170" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=betulaltunyuva&theme=tokyonight" height="170" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=betulaltunyuva&theme=tokyonight" height="170" alt="Top languages" />
 </p>
